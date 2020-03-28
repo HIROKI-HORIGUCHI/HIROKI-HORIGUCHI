@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To_Do_App</string>
+    <string name="message_Text">...</string>
+    <string name="Button_text">Change!</string>
+</resources>
